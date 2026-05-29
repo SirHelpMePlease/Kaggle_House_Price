@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8403c0f3-7aa2-42a4-ae57-52f0d2eff424" name="Changes" comment="Test Push">
-      <change afterPath="$PROJECT_DIR$/Feature_Engineering.ipynb" afterDir="false" />
+    <list default="true" id="8403c0f3-7aa2-42a4-ae57-52f0d2eff424" name="Changes" comment="EDA weitesgehend fertig, Feature Engineering begonnen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feature_Engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Feature_Engineering.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779894922838</updated>
-      <workItem from="1779894923869" duration="8389000" />
+      <workItem from="1779894923869" duration="10217000" />
     </task>
     <task id="LOCAL-00001" summary="Test Push">
       <option name="closed" value="true" />
@@ -89,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779895206300</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="EDA weitesgehend fertig, Feature Engineering begonnen">
+      <option name="closed" value="true" />
+      <created>1780060774733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780060774733</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Push" />
+    <MESSAGE value="EDA weitesgehend fertig, Feature Engineering begonnen" />
+    <option name="LAST_COMMIT_MESSAGE" value="EDA weitesgehend fertig, Feature Engineering begonnen" />
   </component>
 </project>
