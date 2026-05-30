@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8403c0f3-7aa2-42a4-ae57-52f0d2eff424" name="Changes" comment="Die Null Werte sind raus">
+    <list default="true" id="8403c0f3-7aa2-42a4-ae57-52f0d2eff424" name="Changes" comment="Die ersten Outlier wurden entfernt oder gecappt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Feature_Engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Feature_Engineering.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779894922838</updated>
-      <workItem from="1779894923869" duration="13707000" />
+      <workItem from="1779894923869" duration="23285000" />
     </task>
     <task id="LOCAL-00001" summary="Test Push">
       <option name="closed" value="true" />
@@ -105,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780063073249</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Die ersten Outlier wurden entfernt oder gecappt">
+      <option name="closed" value="true" />
+      <created>1780066732779</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780066732779</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +133,7 @@
     <MESSAGE value="Test Push" />
     <MESSAGE value="EDA weitesgehend fertig, Feature Engineering begonnen" />
     <MESSAGE value="Die Null Werte sind raus" />
-    <option name="LAST_COMMIT_MESSAGE" value="Die Null Werte sind raus" />
+    <MESSAGE value="Die ersten Outlier wurden entfernt oder gecappt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Die ersten Outlier wurden entfernt oder gecappt" />
   </component>
 </project>
