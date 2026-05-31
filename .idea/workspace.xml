@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8403c0f3-7aa2-42a4-ae57-52f0d2eff424" name="Changes" comment="Encoding begonnen">
+    <list default="true" id="8403c0f3-7aa2-42a4-ae57-52f0d2eff424" name="Changes" comment="Encoding fertig">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Feature_Engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Feature_Engineering.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Models.ipynb" afterDir="false" />
     </list>
@@ -80,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779894922838</updated>
-      <workItem from="1779894923869" duration="30787000" />
+      <workItem from="1779894923869" duration="32920000" />
     </task>
     <task id="LOCAL-00001" summary="Test Push">
       <option name="closed" value="true" />
@@ -146,7 +145,23 @@
       <option name="project" value="LOCAL" />
       <updated>1780218751689</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Encoding dauert lange">
+      <option name="closed" value="true" />
+      <created>1780220436054</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1780220436054</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Encoding fertig">
+      <option name="closed" value="true" />
+      <created>1780220765506</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1780220765506</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +187,8 @@
     <MESSAGE value="Schiefe Variablen log transformt" />
     <MESSAGE value="Begonnen Baseline zu fitten" />
     <MESSAGE value="Encoding begonnen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encoding begonnen" />
+    <MESSAGE value="Encoding dauert lange" />
+    <MESSAGE value="Encoding fertig" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encoding fertig" />
   </component>
 </project>
