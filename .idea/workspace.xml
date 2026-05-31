@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8403c0f3-7aa2-42a4-ae57-52f0d2eff424" name="Changes" comment="Begonnen Baseline zu fitten">
+    <list default="true" id="8403c0f3-7aa2-42a4-ae57-52f0d2eff424" name="Changes" comment="Encoding begonnen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Feature_Engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Feature_Engineering.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Models.ipynb" afterDir="false" />
     </list>
@@ -79,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779894922838</updated>
-      <workItem from="1779894923869" duration="28892000" />
+      <workItem from="1779894923869" duration="30787000" />
     </task>
     <task id="LOCAL-00001" summary="Test Push">
       <option name="closed" value="true" />
@@ -137,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780158085964</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Encoding begonnen">
+      <option name="closed" value="true" />
+      <created>1780218751689</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780218751689</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +171,7 @@
     <MESSAGE value="Alle Spalten auf Outlier behandelt" />
     <MESSAGE value="Schiefe Variablen log transformt" />
     <MESSAGE value="Begonnen Baseline zu fitten" />
-    <option name="LAST_COMMIT_MESSAGE" value="Begonnen Baseline zu fitten" />
+    <MESSAGE value="Encoding begonnen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encoding begonnen" />
   </component>
 </project>
